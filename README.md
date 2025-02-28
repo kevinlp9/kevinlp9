@@ -1,7 +1,7 @@
 ## Hi there, i´m Kevin 👋
 ![Texto alternativo](https://raw.githubusercontent.com/kevinlp9/kevinlp9/6ad3280b6d6b5c58d42fae72f2f1720dec5a3dd0/images/Banner%20de%20Youtube%20Gamer%20Neon%20Azul%20(1).png)
 ## About Me
-- I am a student of computer systems engineering
-- I am passionate about code
-- I like everything related to technology
-- I also like football
+- I am a student of computer systems engineering 💻🎓
+- I am passionate about code ⚙️
+- I like everything related to technology 🔎
+- I also like football ⚽🥇
